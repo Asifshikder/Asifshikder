@@ -1,6 +1,6 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi+there%2C+I'm+Asif+Rabbani+%F0%9F%91%8B;Senior+Software+Engineer+%7C+Full-Stack+%26+AI+Systems" alt="Typing SVG" />
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=512BD4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Hi+there%2C+I'm+Asif+Rabbani+%F0%9F%91%8B;Senior+Software+Engineer+%7C+Full-Stack+%26+AI+Systems" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/asif-rabbani-ar">
