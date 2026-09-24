@@ -81,26 +81,6 @@ I build **enterprise web apps**, **cloud solutions**, and **AI-powered platforms
 
 ---
 
-## Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [**ai-pdf-translator**](https://github.com/Asifshikder/ai-pdf-translator-persitent-layout) | AI PDF translator that preserves document layout | Python · OpenAI |
-| [**BlazeLibs.CkEditor**](https://github.com/Asifshikder/BlazeLibs.CkEditor) | CKEditor component library for Blazor | C# · JS |
-| [**ISP_CORE_Clean**](https://github.com/Asifshikder/ISP_CORE_Clean) | ISP management — Clean Architecture & Web API | C# |
-| [**EMS**](https://github.com/Asifshikder/EMS) | Employee management system | C# |
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asifshikder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifshikder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="Top Languages"/>
-</p>
-
----
-
 <p align="center">
   <i>"Build things that solve real problems. Ship code that your future self can understand."</i>
 </p>
